@@ -11,12 +11,16 @@ My data came from Kaggle, using Movehub rankings for 216 cities in the world. I 
 
 Sources:
    SQLite3 content from UVA DS2001: https://github.com/UVADS/ds2001/blob/main/lecture_notes/python/interacting_w_relational_database.py
+   
    Data: https://www.kaggle.com/blitzr/movehub-city-rankings?select=movehubqualityoflife.csv
+   
    Sample Weather API call: https://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/
     https://stackoverflow.com/questions/14994948/iterate-each-row-om-table-and-make-api-call
+    
   Writing errors and exceptions:
     https://www.programiz.com/python-programming/user-defined-exception
     https://stackoverflow.com/questions/20844347/how-would-i-make-a-custom-error-message-in-python
+    
   Sources with SQLite:
     https://datatofish.com/create-database-python-using-sqlite3/
     https://towardsdatascience.com/python-pandas-and-sqlite-a0e2c052456f
